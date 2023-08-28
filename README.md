@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Nro de estudiante 306309
+
 <!--
 **andres-pacheco-ort/andres-pacheco-ort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
